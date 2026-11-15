@@ -4,7 +4,7 @@
 Website tĩnh giới thiệu thông tin cá nhân của sinh viên **Lê Anh Đức (MSV: 2071020045)** và trưng bày các dự án thuộc lĩnh vực **Lập trình Game**.
 
 ## 2. Demo
-- **URL công khai (GitHub Pages):** `https://<username>.github.io/<ten-repo>/`
+- **URL công khai (GitHub Pages):** `https://anhducle183-cmd.github.io/Anhduc-CNTT-20-02./`
 
 ## 3. Tính năng hiện có
 - Thanh điều hướng cuộn mượt tới các khu vực: Giới thiệu, Dự án Game, Liên hệ.
